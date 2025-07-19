@@ -17,77 +17,78 @@
 *G:	*G:	*G:
 *M2/4	*M2/4	*M2/4
 *MM80	*MM80	*MM80
-8r	8d/	8d/
+8r	8d	8d
 =1	=1	=1
-8GG\L	8B/ 8d/ 8g/L	8g/
-8G\	8B/ 8g/	8g/
-8F#\	8d/ 8a/	8a/
-8D\J	8d/ 8f#/ 8a/J	8a/
+8GGL	8B 8d 8gL	8g
+8G	8B 8g	8g
+8F#	8d 8a	8a
+8DJ	8d 8f# 8aJ	8a
 =2	=2	=2
 *	*^	*
-8G\L	(8.b/L	4d\ 4g\	(8.b\L
-8BB\	.	.	.
-.	16dd/Jk)	.	16dd\Jk)
+8GL	(8.bL	4d 4g	(8.bL
+8BB	.	.	.
+.	16ddJk)	.	16ddJk)
 *	*v	*v	*
-8D\J	8d/ 8f#/ 8a/	8a/
+8DJ	8d 8f# 8a	8a
 *	*^	*
-8DD/ 8D/	16a/LL	16c\ 16f#\LL	16a/
-.	16b/JJ	16d\JJ	16b\
+8DD 8D	16aLL	16c 16f#LL	16a
+.	16bJJ	16dJJ	16b
 *	*v	*v	*
 =3	=3	=3
-8GG/ 8D/L	4B/ 4g/	4g/
-(16BB/L	.	.
-16D/JJ)	.	.
-8GG/	8r	8r
+8GG 8DL	4B 4g	4g
+(16BBL	.	.
+16DJJ)	.	.
+8GG	8r	8r
 =:|!|:	=:|!|:	=:|!|:
 *>B	*>B	*>B
-8r	8d/	8d/
+8r	8d	8d
 =4	=4	=4
-16DD/LL	8a\ 8cc\L	8cc\
-16D/	.	.
-16F#/	8a\ 8cc\	8cc\
-16D/JJ	.	.
-16F#\LL	8a\ 8cc\J	8cc'\
-16D\	.	.
-16F#\	16cc\ (16ee\LL	16ee\LL
-16D\JJ	16b\ 16dd\JJ)	16dd\JJ
+16DDLL	8a 8ccL	8cc
+16D	.	.
+16F#	8a 8cc	8cc
+16DJJ	.	.
+16F#LL	8a 8ccJ	8cc'
+16D	.	.
+16F#	16cc (16eeLL	16eeLL
+16DJJ	16b 16ddJJ)	16ddJJ
 =5	=5	=5
-16GG\LL	8b\ 8dd\	8dd\
-16D\	.	.
-16G\	16d/ 16b/LL	16b\
-16D\JJ	16d/ 16b/JJ	16b\
-16GG\LL	16e/ 16cc/LL	16cc\
-16D\	16d/ 16b/	16b\
-16G\	16c/ 16a/	16a/
-16D\JJ	16B/ 16g/JJ	16g/
+16GGLL	8b 8dd	8dd
+16D	.	.
+16G	16d 16bLL	16b
+16DJJ	16d 16bJJ	16b
+16GGLL	16e 16ccLL	16cc
+16D	16d 16b	16b
+16G	16c 16a	16a
+16DJJ	16B 16gJJ	16g
 =6	=6	=6
-16DD/LL	16c/ 16a/LL	16a/
-16D/	16c/ 16a/	16a/
-16F#/	16c/ 16a/	16a/
-16D/JJ	16c/ 16a/JJ	16a/
-16DD/LL	(16d/ 16b/LL	16b/
-16D/	16c/) 16a/	16a/
-16DD/	16B/ 16g/	16g/
-16D/JJ	16A/ 16f#/JJ	16f#/
+16DDLL	16c 16aLL	16a
+16D	16c 16a	16a
+16F#	16c 16a	16a
+16DJJ	16c 16aJJ	16a
+16DDLL	(16d 16bLL	16b
+16D	16c) 16a	16a
+16DD	16B 16g	16g
+16DJJ	16A 16f#JJ	16f#
 =7	=7	=7
-8GG/ 8D/	8B/ 8g/	8g/
-8r	16B/ 16g/LL	16g/
-.	16d/ 16a/JJ	16a/
+8GG 8D	8B 8g	8g
+8r	16B 16gLL	16g
+.	16d 16aJJ	16a
 *	*^	*
-8r	(16b/LL	8g\L	16b\LL
+8r	(16bLL	8gL	16bLL
 *^	*	*	*
-.	.	16dd/)	.	16dd\JJ
-16A/LL	8D\	(16cc/	8f#\J	16cc\LL
-16c/JJ	.	16a/JJ)	.	16a\JJ
+.	.	16dd)	.	16ddJJ
+16ALL	8D	(16cc	8f#J	16ccLL
+16cJJ	.	16aJJ)	.	16aJJ
 *v	*v	*	*	*
 *	*v	*v	*
 =8	=8	=8
-8G\ 8B\	4d/ 4g/	4g/
-(16BB/LL	.	.
-16D/JJ)	.	.
-8GG/	8r	8r
+8G 8B	4d 4g	4g
+(16BBLL	.	.
+16DJJ)	.	.
+8GG	8r	8r
 ==:|!	==:|!	==:|!
 *-	*-	*-
+!!!system-decoration: s1{(s2,s3)}
 !!!ENC: Craig Stuart Sapp
 !!!END: 2004/05/19/
 !!!EFL: 019/651

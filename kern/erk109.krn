@@ -17,95 +17,96 @@
 *M3/4	*M3/4	*M3/4
 *MM76	*MM76	*MM76
 *^	*	*
-4r	2.CC\	4E/ 4G/ 4c/	8.c/
-.	.	.	16c/
-4C/	.	4G/ 4c/ 4e/	8.e/
-.	.	.	16e/
-4C/	.	4c/ 4e/ 4g/	8.g/
-.	.	.	16g/
+4r	2.CC	4E 4G 4c	8.c
+.	.	.	16c
+4C	.	4G 4c 4e	8.e
+.	.	.	16e
+4C	.	4c 4e 4g	8.g
+.	.	.	16g
 *v	*v	*	*
 =2	=2	=2
-2CC/	4r	(8.g\L
-.	.	16ee\Jk
-.	4G/ 4c/ 4e/	4cc\)
-4C/	4G/ 4c/ 4e/	(12e/L
-.	.	12g/
-.	.	12cc/J)
+2CC	4r	(8.gL
+.	.	16eeJk
+.	4G 4c 4e	4cc)
+4C	4G 4c 4e	(12eL
+.	.	12g
+.	.	12ccJ)
 =3	=3	=3
-2GG/	4r	(4dd\
-.	4G/ 4B/ 4d/ 4f/	8ff\)
+2GG	4r	(4dd
+.	4G 4B 4d 4f	8ff)
 .	.	8r
-4GG/	4G/ 4B/ 4d/ 4f/	(12d/L
-.	.	12f/
-.	.	12b/J)
+4GG	4G 4B 4d 4f	(12dL
+.	.	12f
+.	.	12bJ)
 =4	=4	=4
 *>A1	*>A1	*>A1
-2CC/	4r	(4cc\
-.	4G/ 4c/ 4e/	8ee\)
+2CC	4r	(4cc
+.	4G 4c 4e	8ee)
 .	.	8r
-4C/	4G/ 4c/ 4e/	4r
+4C	4G 4c 4e	4r
 =5:|!	=5:|!	=5:|!
 *>A2	*>A2	*>A2
-2CC/ 2C/	4r	4cc\
-.	4G/ 4c/ 4e/	4r
-4r	4r	12e/L
-.	.	12g/J
-.	.	12cc\
+2CC 2C	4r	4cc
+.	4G 4c 4e	4r
+4r	4r	12eL
+.	.	12gJ
+.	.	12cc
 =6	=6	=6
 *>B	*>B	*>B
-2GGG/ 2GG/	4r	4b\
-.	4G/ 4B/ 4d/ 4f/	8dd\
+2GGG 2GG	4r	4b
+.	4G 4B 4d 4f	8dd
 .	.	8r
-4r	4G/ 4B/ 4d/ 4f/	12d/L
-.	.	12f/J
-.	.	12b/
+4r	4G 4B 4d 4f	12dL
+.	.	12fJ
+.	.	12b
 =7	=7	=7
-2CC/ 2C/	4r	(4cc\
-.	4G/ 4c/ 4e/	8ee\)
+2CC 2C	4r	(4cc
+.	4G 4c 4e	8ee)
 .	.	8r
-4r	4G/ 4c/ 4e/	12e/
-.	.	12g/
-.	.	12cc\
+4r	4G 4c 4e	12e
+.	.	12g
+.	.	12cc
 =8	=8	=8
-2GGG/ 2GG/	4r	(4b\
-.	4G/ 4B/ 4d/ 4f/	8dd\)
+2GGG 2GG	4r	(4b
+.	4G 4B 4d 4f	8dd)
 .	.	8r
-4r	4G/ 4B/ 4d/ 4f/	12d/
-.	.	12f/
-.	.	12b\
+4r	4G 4B 4d 4f	12d
+.	.	12f
+.	.	12b
 =9	=9	=9
-2CC/ 2C/	4r	(4cc\
-.	4G/ 4c/ 4e/	4ee\)
-4r	4G/ 4c/ 4e/	4r
+2CC 2C	4r	(4cc
+.	4G 4c 4e	4ee)
+4r	4G 4c 4e	4r
 =10	=10	=10
 *^	*	*
-4r	2.CC\	4E/ 4G/ 4c/	8.c/
-.	.	.	16c/
-4C/	.	4G/ 4c/ 4e/	8.e/
-.	.	.	16e/
-4C/	.	4c/ 4e/ 4g/	8.g/
-.	.	.	16g/
+4r	2.CC	4E 4G 4c	8.c
+.	.	.	16c
+4C	.	4G 4c 4e	8.e
+.	.	.	16e
+4C	.	4c 4e 4g	8.g
+.	.	.	16g
 *v	*v	*	*
 =11	=11	=11
-2CC/	4r	(8.g\L
-.	.	16ee\Jk
-.	4G/ 4c/ 4e/	4cc\)
-4C/	4G/ 4c/ 4e/	(12e/L
-.	.	12g/
-.	.	12cc/J)
+2CC	4r	(8.gL
+.	.	16eeJk
+.	4G 4c 4e	4cc)
+4C	4G 4c 4e	(12eL
+.	.	12g
+.	.	12ccJ)
 =12	=12	=12
-2GG/	4r	(4dd\
-.	4G/ 4B/ 4d/ 4f/	8ff\)
+2GG	4r	(4dd
+.	4G 4B 4d 4f	8ff)
 .	.	8r
-4GG/	4G/ 4B/ 4d/ 4f/	(12d/L
-.	.	12f/
-.	.	12b/J)
+4GG	4G 4B 4d 4f	(12dL
+.	.	12f
+.	.	12bJ)
 =13	=13	=13
-2CC/ 2C/	4r	4cc\
-.	4G/ 4c/ 4e/	4r
+2CC 2C	4r	4cc
+.	4G 4c 4e	4r
 4r	4r	4r
 ==	==	==
 *-	*-	*-
+!!!system-decoration: s1{(s2,s3)}
 !!!ENC: Craig Stuart Sapp
 !!!END: 2004/06/06/
 !!!EFL: 109/651

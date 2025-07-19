@@ -1,8 +1,8 @@
-!!!OTL@@DE: Drei R&ouml;selein
+!!!OTL@@DE: Drei Röselein
 !!!COM: Volkslied
 !!!ODT: 1824
-!!!OMD: Gem&uuml;thlich
-!!!ONB: Schw&auml;bisch
+!!!OMD: Gemüthlich
+!!!ONB: Schwäbisch
 !!!OCL: Erk, Ludwig
 !!!GCO: Deutscher Liederschatz, Band 1
 **kern	**kern	**kern
@@ -13,91 +13,92 @@
 *G:	*G:	*G:
 *M3/8	*M3/8	*M3/8
 *MM80	*MM80	*MM80
-8r	8d/	8d/
+8r	8d	8d
 =1	=1	=1
 *^	*	*
-8GG/L	4.GG\	8.B/ 8.g/L	8.g/
-8D/	.	.	.
-.	.	16A/ 16f#/Jk	16f#/
-8G/J	.	16B/ 16g/LL	16g/LL
-.	.	16c/ 16a/JJ	16a/JJ
+8GGL	4.GG	8.B 8.gL	8.g
+8D	.	.	.
+.	.	16A 16f#Jk	16f#
+8GJ	.	16B 16gLL	16gLL
+.	.	16c 16aJJ	16aJJ
 =2	=2	=2	=2
-8GG/L	4.GG\	8.d/ 8.b/L	8.b\
-8D/	.	.	.
-.	.	16e/ 16cc/k	16cc\
-8G/J	.	8d/ 8b/J	8b\
+8GGL	4.GG	8.d 8.bL	8.b
+8D	.	.	.
+.	.	16e 16cck	16cc
+8GJ	.	8d 8bJ	8b
 *v	*v	*	*
 =3	=3	=3
-8D/L	8c/ 8a/L	8a/
-8DD/	8B/ 8g/	8g/
-8D/J	8c/ 8a/J	8a/
+8DL	8c 8aL	8a
+8DD	8B 8g	8g
+8DJ	8c 8aJ	8a
 =4	=4	=4
-8GG/L	8B/ 8g/	8g/
-8G/J	8r	8r
-8r	8d/ 8a/	8a/
+8GGL	8B 8g	8g
+8GJ	8r	8r
+8r	8d 8a	8a
 =5	=5	=5
 *^	*	*
-8GG/L	4.GG\	8.g/ 8.b/L	8.b\
-8D/	.	.	.
-.	.	16f#/ 16a/Jk	16a/
-8G/J	.	16g/ 16b/LL	16b/LL
-.	.	16a/ 16cc/JJ	16cc/JJ
+8GGL	4.GG	8.g 8.bL	8.b
+8D	.	.	.
+.	.	16f# 16aJk	16a
+8GJ	.	16g 16bLL	16bLL
+.	.	16a 16ccJJ	16ccJJ
 =6	=6	=6	=6
-8GG/L	4.GG\	8.b\ 8.dd\L	8.dd\
-8D/	.	.	.
-.	.	16cc\ 16ee\k	16ee\
-8G/J	.	8b\ 8dd\J	8dd\
+8GGL	4.GG	8.b 8.ddL	8.dd
+8D	.	.	.
+.	.	16cc 16eek	16ee
+8GJ	.	8b 8ddJ	8dd
 *v	*v	*	*
 =7	=7	=7
-8D/L	8a\ 8cc\L	8cc\
-8DD/	8g\ 8b\	8b\
-8D/J	8a\ 8cc\J	8cc\
+8DL	8a 8ccL	8cc
+8DD	8g 8b	8b
+8DJ	8a 8ccJ	8cc
 =8	=8	=8
-8GG/L	4g/ 4b/	4b\
-8G/J	.	.
+8GGL	4g 4b	4b
+8GJ	.	.
 =	=	=
-8r	8b\ 8dd\	8dd\
+8r	8b 8dd	8dd
 =9	=9	=9
 *	*^	*
-8D\L	16b/ 16dd/LL	[4.d\	16dd/LL
-.	16a/ 16cc/J	.	16cc/JJ
-8F#\	8a/ 8cc/	.	8cc\
-8D\J	8a/ 8cc/J	.	8cc\
+8DL	16b 16ddLL	[4.d	16ddLL
+.	16a 16ccJ	.	16ccJJ
+8F#	8a 8cc	.	8cc
+8DJ	8a 8ccJ	.	8cc
 =10	=10	=10	=10
-8G/L	8g/ 8b/L	4.d\]	8b\
-8GG/	16b/ 16dd/L	.	16dd/LL
-.	16g/ 16b/J	.	16b/JJ
-8BB/J	8g/ 8b/J	.	8b\
+8GL	8g 8bL	4.d]	8b
+8GG	16b 16ddL	.	16ddLL
+.	16g 16bJ	.	16bJJ
+8BBJ	8g 8bJ	.	8b
 =11	=11	=11	=11
-8D/L	16g/ 16b/LL	[4.d\	16b\
-.	16f#/ 16a/J	.	16a/
-8DD/	8f#/ 8a/	.	8a/
-8D/J	8f#/ 8a/J	.	8a/
+8DL	16g 16bLL	[4.d	16b
+.	16f# 16aJ	.	16a
+8DD	8f# 8a	.	8a
+8DJ	8f# 8aJ	.	8a
 =12	=12	=12	=12
-8GG/L	4g/ 4b/	4d\]	4b\
-8G/J	.	.	.
-8r	8b/ 8dd/	8r	8dd\
+8GGL	4g 4b	4d]	4b
+8GJ	.	.	.
+8r	8b 8dd	8r	8dd
 =13	=13	=13	=13
-8D\L	16b/ 16dd/LL	[4.d\	16dd\
-.	16a/ 16cc/J	.	16cc\
-8F#\	8a/ 8cc/	.	8cc\
-8D\J	8a/ 8cc/J	.	8cc\
+8DL	16b 16ddLL	[4.d	16dd
+.	16a 16ccJ	.	16cc
+8F#	8a 8cc	.	8cc
+8DJ	8a 8ccJ	.	8cc
 =14	=14	=14	=14
-8G/L	8g/ 8b/L	4.d\]	8b\
-8GG/	16b/ 16dd/L	.	16dd\
-.	16g/ 16b/J	.	16b\
-8BB/J	8g/ 8b/J	.	8b\
+8GL	8g 8bL	4.d]	8b
+8GG	16b 16ddL	.	16dd
+.	16g 16bJ	.	16b
+8BBJ	8g 8bJ	.	8b
 *	*v	*v	*
 =15	=15	=15
-8D/L	16d/ 16b/LL	16b\
-.	16c/ 16a/J	16a/
-8DD/	8c/ 8a/	8a/
-8D/J	8f#/ 8a/J	8a/
+8DL	16d 16bLL	16b
+.	16c 16aJ	16a
+8DD	8c 8a	8a
+8DJ	8f# 8aJ	8a
 =16	=16	=16
-8G/L	4B/ 4d/ 4g/	4g/
-8GG/J	.	.
+8GL	4B 4d 4g	4g
+8GGJ	.	.
 ==	==	==
 *-	*-	*-
+!!!system-decoration: s1{(s2,s3)}
 !!!ENC: Craig Stuart Sapp
 !!!END: 2004/05/26/
 !!!EFL: 062/651

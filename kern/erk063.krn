@@ -1,5 +1,5 @@
 !!!OTL@@DE: In Berlin, sagt' er, etc.
-!!!ONB: Mel.: In Sch&ouml;nbrunn, sagt er.
+!!!ONB: Mel.: In Schönbrunn, sagt er.
 !!!OMD: Allegretto
 !!!LYR: Holtei, Carl von
 !!!LDT: 1824
@@ -14,62 +14,63 @@
 *B-:	*B-:	*B-:
 *M3/4	*M3/4	*M3/4
 *MM114	*MM114	*MM114
-4r	4r	8f/
-.	.	8f/
+4r	4r	8f
+.	.	8f
 =1	=1	=1
-4BB-/	4r	8b-\
-.	.	8f/
-4r	4B-/ 4d/ 4f/	8f/
-.	.	8f/
-4r	4B-/ 4d/ 4f/	8f/
-.	.	8b-\
+4BB-	4r	8b-
+.	.	8f
+4r	4B- 4d 4f	8f
+.	.	8f
+4r	4B- 4d 4f	8f
+.	.	8b-
 =2	=2	=2
-4FF/	4r	8a/
-.	.	8f/
-4r	4A/ 4c/ 4e-/ 4f/	8f/
-.	.	8f/
-4r	4A/ 4c/ 4e-/ 4f/	8f/
-.	.	8f/
+4FF	4r	8a
+.	.	8f
+4r	4A 4c 4e- 4f	8f
+.	.	8f
+4r	4A 4c 4e- 4f	8f
+.	.	8f
 =3	=3	=3
-4F\	4r	8cc/
-.	.	8f/
-4r	4c/ 4e-/ 4f/	8f/
-.	.	8f/
-4r	4c/ 4e-/ 4f/	8g/
-.	.	8a/
+4F	4r	8cc
+.	.	8f
+4r	4c 4e- 4f	8f
+.	.	8f
+4r	4c 4e- 4f	8g
+.	.	8a
 =4	=4	=4
-4BB-/	4r	8b-/
-.	.	8f/
-4r	4B-/ 4d/ 4f/	8f/
-.	.	8f/
-4r	4B-/ 4d/ 4f/	8f/
-.	.	8f/
+4BB-	4r	8b-
+.	.	8f
+4r	4B- 4d 4f	8f
+.	.	8f
+4r	4B- 4d 4f	8f
+.	.	8f
 =5	=5	=5
-4BB-/	4r	8b-/
-.	.	8f/
-4r	4B-/ 4d/ 4f/	8f/
-.	.	8f/
-4r	4B-/ 4d/ 4f/	8f/
-.	.	8b-\
+4BB-	4r	8b-
+.	.	8f
+4r	4B- 4d 4f	8f
+.	.	8f
+4r	4B- 4d 4f	8f
+.	.	8b-
 =6	=6	=6
-4C/	4r	8a/
-.	.	8f/
-4r	4A/ 4e-/ 4f/	8f/
-.	.	8f/
-4r	4A/ 4e-/ 4f/	8f/
-.	.	8f/
+4C	4r	8a
+.	.	8f
+4r	4A 4e- 4f	8f
+.	.	8f
+4r	4A 4e- 4f	8f
+.	.	8f
 =7	=7	=7
-4FF/	4r	8ff/
-.	.	8f/
-4r	4c/ 4e-/ 4f/	8f/
-.	.	8f/
-4r	4c/ 4e-/ 4f/	8g/
-.	.	8a/
+4FF	4r	8ff
+.	.	8f
+4r	4c 4e- 4f	8f
+.	.	8f
+4r	4c 4e- 4f	8g
+.	.	8a
 =8	=8	=8
-4BB-/	4B-/ 4d/ 4f/	4b-\
-4BBB-/	4r	4r
+4BB-	4B- 4d 4f	4b-
+4BBB-	4r	4r
 ==	==	==
 *-	*-	*-
+!!!system-decoration: s1{(s2,s3)}
 !!!ENC: Craig Stuart Sapp
 !!!END: 2004/05/26/
 !!!EFL: 063/651

@@ -20,8 +20,8 @@
 4GG	4B 4d 4g	4g
 4G	(8bL	8bL
 .	8dJ)	8dJ
-4D	8gL	8gL
-.	8bJ	8bJ
+4D	(8gL	8gL
+.	8bJ)	8bJ
 =2	=2	=2
 (4B	4dd	4dd
 4D	(8ggL	8ggL
@@ -53,9 +53,10 @@
 =7!|:	=7!|:	=7!|:
 *>B	*>B	*>B
 4D	4f# 4a	4a
-4d	8a' 8cc'L	8cc
+4d	8a' 8cc'L>	8cc
 .	8a' 8cc'J	8cc
 4D	4f# 4a	4a
+!!LO:LB:g=original
 =8	=8	=8
 *^	*	*
 4B	2.G	4g	4g
@@ -65,7 +66,7 @@
 *v	*v	*	*
 =9	=9	=9
 4D	4f# 4a	4a
-4d	8a' 8cc'L	8cc
+4d	8a' 8cc'L>	8cc
 .	8a' 8cc'J	8cc
 4D	4f# 4a	4a
 =10	=10	=10
@@ -77,7 +78,7 @@
 *v	*v	*	*
 =11	=11	=11
 4D	4f# 4a	4a
-4d	8a' 8cc'L	8cc
+4d	8a' 8cc'L>	8cc
 .	8a' 8cc'J	8cc
 4D	4f# 4a	4a
 =12	=12	=12
@@ -90,19 +91,23 @@
 =13	=13	=13
 4D	4g 4b 4gg	4gg
 *^	*^	*
-(8BL	4D	(8ddL	4g	8dd
-8G	.	8bJ	.	8b
-8A	4D	(8ccL)	4f#	8ccL
+(8BL	4D	(8dd/L	4g	8dd
+8G	.	8bJ)	.	8b
+8A	4D	(8ccL	4f#	8ccL
 8cJ)	.	8aJ)	.	8aJ
 *	*	*v	*v	*
 =14	=14	=14	=14
-4G	2B	2d 2g	2g
-4GG	.	.	.
+2B	4G	2d 2g	2g
+.	4GG	.	.
 *v	*v	*	*
 4r	4r	4r
 ==:|!	==:|!	==:|!
 *-	*-	*-
 !!!system-decoration: s1{(s2,s3)}
+!!!RDF**kern: > = above
+!!!RDF**kern: < = below
 !!!ENC: Craig Stuart Sapp
-!!!END: 2004/06/06/
+!!!END: 2004/06/06
+!!!EED: Craig Stuart Sapp
+!!!EEV: 2025/07/21
 !!!EFL: 108/651

@@ -22,7 +22,7 @@
 .	8d) 8aJ	8a
 =1	=1	=1
 *^	*	*
-8GGL	4.GG	(4.g 4.b	4.b
+8GGL	4GG	(4.g 4.b	4.b
 8D	.	.	.
 *v	*v	*	*
 8G 8B	.	.
@@ -48,9 +48,12 @@
 =4	=4	=4
 4G 4B	4d 4g	4g
 8GG	8r	8r
+!!LO:LB:g=original
 =:|!	=:|!	=:|!
 *>B	*>B	*>B
+!	!	!LO:TX:a:t=Jodler:vg=2
 8r	8r	8r
+!	!	!LO:TX:a:i:t=  ad libitum:vg=2
 4r	8gL	8gL
 .	8aJ	8aJ
 =5	=5	=5
@@ -79,31 +82,32 @@
 .	8gJ	8gJ
 4D 4G 4B	8b)	8b
 .	8r	8r
+!!LO:LB:g=original
 =9	=9	=9
-4BB	(8.ddL	8.ddL
+4BB	(8.ddL	(8.ddL
 .	16bJk	16bJk
 4G 4B 4d	4.gg	4.gg
 4G 4B 4d	.	.
-.	8ff#)	8ff#
+.	8ff#)	8ff#)
 =10	=10	=10
-4C	(4ff#	4ff#
-4E 4A 4c	4ee)	4ee
-4E 4A 4c	(8.aL	8aL
-.	.	8bJ
-.	&(16bJk&))	.
+4C	(4ff#	(4ff#
+4E 4A 4c	4ee)	4ee)
+4E 4A 4c	(8.aL	8.aL
+.	.	.
+.	(16bJk))	16bJ
 =11	=11	=11
 *^	*	*
 4r	2.D	(4dd	4dd
 4F# 4A 4d	.	8ccL	8ccL
-.	.	8f#J	8f#J
-4A 4c 4d	.	(8ccL)	8ccL
+.	.	8f#J)	8f#J
+4A 4c 4d	.	(8ccL	8ccL
 .	.	8f#J)	8f#J
 *v	*v	*	*
 =12	=12	=12
 4G 4B 4d	4g	4g
 4GG	4r	4r
-4r	8.bL	4r
-.	16aJk	.
+4r	(8.bL	4r
+.	16aJk)	.
 =13	=13	=13
 4AA	(8.aL	8.aL
 .	16bk	16bJk
@@ -112,11 +116,13 @@
 4A 4c# 4g	8.a	8.aL
 .	16bJk)	16bJk
 =14	=14	=14
+!	!LO:TUP:a	!LO:TUP:a
 4D	(12aL	(12aL
 .	12dd	12dd
 .	12ff#J)	12ff#J)
 4A 4d 4f#	2aa	2aa
 4A 4d 4f#	.	.
+!!LO:LB:g=original
 =15	=15	=15
 4AA	(8aaL	(8aaL
 .	16ggL	16ggL
@@ -137,9 +143,10 @@
 4F# 4A 4d	8.a 8.cc	8.ccL
 .	16ddJk)	16ddJk
 =18	=18	=18
-4GG	(12bL	12bL
+!	!LO:TUP:a	!LO:TUP:a
+4GG	(12bL	(12bL
 .	12dd	12dd
-.	12ggJ	12ggJ
+.	12ggJ	12ggJ)
 4B 4d	4.bb)	4.bb
 4G 4B 4d	.	.
 .	8dd	8dd
@@ -157,5 +164,7 @@
 *-	*-	*-
 !!!system-decoration: s1{(s2,s3)}
 !!!ENC: Craig Stuart Sapp
-!!!END: 2004/06/06/
+!!!END: 2004/06/06
+!!!EED: Craig Stuart Sapp
+!!!EEV: 2025/07/21
 !!!EFL: 107/651

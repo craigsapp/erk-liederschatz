@@ -34,6 +34,7 @@
 2G 2d	4.g 4.b	4.b
 .	8a 8cc	8cc
 4G 4d	4b 4dd	4dd
+!!LO:LB:g=original
 =6	=6	=6
 2G 2d	4.b 4.dd	4.dd
 .	8a 8cc	8cc
@@ -55,6 +56,7 @@
 2GG 2D	4.B 4.g	4.g
 .	8d 8a	8a
 4GG 4D	4g 4b	4b
+!!LO:LB:g=original
 =11	=11	=11
 2DD 2D	4g 4b	4b
 .	4f# 4a	4a
@@ -84,4 +86,6 @@
 !!!system-decoration: s1{(s2,s3)}
 !!!ENC: Craig Stuart Sapp
 !!!END: 2004/05/17/
+!!!EED: Craig Stuart Sapp
+!!!EEV: 2025/07/21
 !!!EFL: 006/651

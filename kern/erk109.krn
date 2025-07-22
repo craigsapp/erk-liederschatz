@@ -29,6 +29,8 @@
 2CC	4r	(8.gL
 .	.	16eeJk
 .	4G 4c 4e	4cc)
+!	!	!LO:TX:a:t=gejodelt
+!	!	!LO:TUP:b
 4C	4G 4c 4e	(12eL
 .	.	12g
 .	.	12ccJ)
@@ -36,6 +38,7 @@
 2GG	4r	(4dd
 .	4G 4B 4d 4f	8ff)
 .	.	8r
+!	!	!LO:TUP:b
 4GG	4G 4B 4d 4f	(12dL
 .	.	12f
 .	.	12bJ)
@@ -45,6 +48,7 @@
 .	4G 4c 4e	8ee)
 .	.	8r
 4C	4G 4c 4e	4r
+!!LO:LB:g=original
 =5:|!	=5:|!	=5:|!
 *>A2	*>A2	*>A2
 2CC 2C	4r	4cc
@@ -74,6 +78,7 @@
 4r	4G 4B 4d 4f	12d
 .	.	12f
 .	.	12b
+!!LO:LB:g=original
 =9	=9	=9
 2CC 2C	4r	(4cc
 .	4G 4c 4e	4ee)
@@ -91,6 +96,8 @@
 2CC	4r	(8.gL
 .	.	16eeJk
 .	4G 4c 4e	4cc)
+!	!	!LO:TX:a:t=gejodelt
+!	!	!LO:TUP:b
 4C	4G 4c 4e	(12eL
 .	.	12g
 .	.	12ccJ)
@@ -98,6 +105,7 @@
 2GG	4r	(4dd
 .	4G 4B 4d 4f	8ff)
 .	.	8r
+!	!	!LO:TUP:b
 4GG	4G 4B 4d 4f	(12dL
 .	.	12f
 .	.	12bJ)
@@ -110,4 +118,6 @@
 !!!system-decoration: s1{(s2,s3)}
 !!!ENC: Craig Stuart Sapp
 !!!END: 2004/06/06/
+!!!EED: Craig Stuart Sapp
+!!!EEV: 2025/07/22
 !!!EFL: 109/651

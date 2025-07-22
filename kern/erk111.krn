@@ -40,6 +40,7 @@
 4C	2e 2g 2cc	2cc
 4GG	.	.
 4CC	4r	4r
+!!LO:LB:g=original
 =:|!	=:|!	=:|!
 *>B	*>B	*>B
 4C 4c	4a 4cc	4cc
@@ -79,5 +80,7 @@
 *-	*-	*-
 !!!system-decoration: s1{(s2,s3)}
 !!!ENC: Craig Stuart Sapp
-!!!END: 2004/06/06/
+!!!END: 2004/06/06
+!!!EED: Craig Stuart Sapp
+!!!EEV: 2025/07/22
 !!!EFL: 111/651
